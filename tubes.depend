@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1703576273 source:c:\users\hp\documents\1. family\farrell habibie\kuliah semester 2\tubes\main.cpp
+	<iostream>
+	"inventory.h"
+
+1703575308 c:\users\hp\documents\1. family\farrell habibie\kuliah semester 2\tubes\inventory.h
+	<iostream>
+
+1703522272 source:d:\telkom\semester 3\struktur data\tubes\tubes\main.cpp
+	<iostream>
+	"inventory.h"
+
+1703534732 d:\telkom\semester 3\struktur data\tubes\tubes\inventory.h
+	<iostream>
+
+1703774001 source:d:\telkom\semester 3\struktur data\tubes\tubes\inventory.cpp
+	<iostream>
+	"inventory.h"
+
